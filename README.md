@@ -1,4 +1,4 @@
-# AngularElementsNine
+# Lazy Loaded Component
 
 This repo is from AngularMinskMeetup#7 [Slides.com](https://slides.com/kostyamalikov/angular-future-with-ivy#). Angualr version 9-rc5
 
